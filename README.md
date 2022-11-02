@@ -43,7 +43,7 @@ See image below:
 
 Writing a script with Python was successfully able to audit and calculate the results of the congressional district. The script, with modification to the code, could be applied to other elections to speed up the audit process. One example could be for senatorial districts. The code could almost be kept the same and applied to different data file. Modifications in the code would be needed for opening and looping through the new data file as well where variables lie within the data file. An example of this in the code would be lines 40, 41, 53, and 57.
 
-![code example]()
+![code example](code.png)
 
 The part of the script that calculates county votes could be included or removed depending if the senatorial election file contained this information or if it was needed.
 
