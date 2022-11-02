@@ -17,8 +17,7 @@ The purpse of this assignment was to help a Colorado board of elections employee
 -Data Source: Election_results.csv
 -Software: Python, Visual Studio Code
 
-## **Summary**
-### **Results**
+## **Results**
 The anaylsis of the election showed that:
 - There were 369,711 votes cast in the election.
 - County vote breakdown:
@@ -41,7 +40,8 @@ See image below:
 
 ![this is an image](results.png)
 
-Writing a script with Python was successfully able to audit and calculate the results of the congressional district. The script, with modification to the code, could be applied to other elections to speed up the audit process. One example could be for senatorial districts. The code could almost be kept the same and applied to different data file. Modifications in the code would be needed for opening and looping through the new data file as well where variables lie within the data file. An example of this in the code would be lines 40, 41, 53, and 57.
+## **Summary**
+The Python script was successfully able to audit and calculate the results of the congressional district election. The script, with modification to the code, could be applied to other elections to speed up the audit process. One example of its uses could be for elections in senatorial districts. The code could be adjusted slightly and applied to a different data file. Modifications in the code would be needed for opening and looping through the new data file as well where variables lie within the data file. An example of this in the code would be lines 40, 41, 53, and 57.
 
 ![code example](code.png)
 
